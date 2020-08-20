@@ -1,6 +1,6 @@
 # Pineapple-IP-Configurator
 
-<h3>A Windows Utility to Help to Setup Network 4 the Hak5 Wifi Pineapple Devices</h3>
+<h3>A Windows Utility to Help to Setup Network for Wifi Pineapple Devices</h3>
 
 
 <BR>
