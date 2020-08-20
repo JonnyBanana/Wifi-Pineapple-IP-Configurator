@@ -9,3 +9,14 @@
 
 <BR>
 
+
+<h4>What does the program do?</h4>
+
+
+
+<BR>
+
+
+<h4>Requirements</h4>
+
+The Network MUST be named "WIFI_PINEAPPLE" (u can use the function "3" of this utility)
