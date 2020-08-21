@@ -22,7 +22,23 @@ Hence the need to write a simple program that did these simple maneuvers automat
 The program is written in DOS for backward compatibility with Windows systems.
 
 <BR>
+ 
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Pineapple-IP-Configurator/master/IMG/pineapple-menu.PNG)
+  
+<BR>
+  
+Essentially the program has only 4 functions:
 
+1. DISABLE DHCP: this function removes the dhcp from the Wifi Pineapple network (which must be named "WIFI_PINEAPPLE"), and
+set as p IP address 172.16.42.42 and as Subnet Mask 255.255.0.0, thus allowing correct network operation for the Pineapple AP
+
+2. RE ENABLE DHCP: this function resets the dhcp from the Wifi Pineapple network (which must be named "WIFI_PINEAPPLE"), 
+it is useful when you have network problems, for troubleshooting
+
+3. RENAME THE NETWORK: this function renames the network of the device in "WIFI_PINEAPPLE"), it is used to make the program functions "1" and "2" work.
+
+
+<BR>
 
 <h4>Requirements</h4>
 
