@@ -1,4 +1,4 @@
-# Pineapple-IP-Configurator
+# Wifi-Pineapple-IP-Configurator
 
 <h3>A Windows Utility to Help to Setup Network for Wifi Pineapple Devices</h3>
 
