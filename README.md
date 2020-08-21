@@ -45,3 +45,16 @@ to do this use the default browser, it is useful to open the interface once netw
 <h4>Requirements</h4>
 
 The Network MUST be named "WIFI_PINEAPPLE" (u can use the function "3" of this utility)
+
+<BR>
+ 
+
+
+
+Remember that if you need to set up Wifi Pineapple you must still enable internet connection sharing from the network properties.
+
+Full setup guide here:
+
+https://www.coengoedegebure.com/setting-up-wifi-pineapple/
+
+
