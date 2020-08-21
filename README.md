@@ -35,7 +35,7 @@ set as p IP address 172.16.42.42 and as Subnet Mask 255.255.0.0, thus allowing c
 2. RE ENABLE DHCP: this function resets the dhcp from the Wifi Pineapple network (which must be named "WIFI_PINEAPPLE"), 
 it is useful when you have network problems, for troubleshooting
 
-3. RENAME THE NETWORK: this function renames the network of the device in "WIFI_PINEAPPLE"), it is used to make the program functions "1" and "2" work.
+3. RENAME THE NETWORK: this function renames the network of the device in "WIFI_PINEAPPLE", it is used to make the program functions "1" and "2" work.
 
 4. OPEN THE WIFI PINEAPPLE DASHBOARD: this function opens the web page of the Wifi Pineapple Dashboard (http://172.16.42.1:1471/#!/modules/Dashboard), 
 to do this use the default browser, it is useful to open the interface once network problems are resolved or setup is complete
