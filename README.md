@@ -17,7 +17,7 @@ others because the network parameters were mysteriously forgotten by Windows, an
 disconnecting the Wifi Pineapple from the USB port.
 Every time you have to enter the IPv4 network parameters and reset the correct address,  and in the long run it can become frustrating ...
 
-Hence the need to write a simple program that did these simple maneuvers automatically.
+Hence the need to write a little script that did these simple maneuvers automatically.
 
 The program is written in DOS for backward compatibility with Windows systems.
 
